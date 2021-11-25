@@ -1,0 +1,12 @@
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\bin\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.deps.json
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\bin\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.dll
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\bin\Debug\net5.0\ref\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.dll
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\bin\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.pdb
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.csproj.AssemblyReference.cache
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.AssemblyInfoInputs.cache
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.AssemblyInfo.cs
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.csproj.CoreCompileInputs.cache
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.dll
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\ref\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.dll
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.pdb
