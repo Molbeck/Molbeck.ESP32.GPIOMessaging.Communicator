@@ -1,6 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Grpc.Core;
 using Molbeck.ESP32.GPIOMessaging.Model.Configurations;
+using Molbeck.ESP32.GPIOMessaging.Model.Configurations.Impl;
 using Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.Configurations;
 
 namespace Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration
@@ -22,7 +23,7 @@ namespace Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration
          return new BlueLEDGpioConfiguration();
       }
 
-      public static ToitSubscriptionConfiguration GetGpioTriggerMessageToitSubscription()
+      public static ToitSubscriptionConfiguration GetTriggerMessageToitSubscription()
       {
          return new ToitSubscriptionConfiguration()
          {

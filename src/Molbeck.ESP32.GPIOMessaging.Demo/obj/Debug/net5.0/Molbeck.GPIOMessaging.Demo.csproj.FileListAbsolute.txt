@@ -30,3 +30,4 @@ C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMess
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\ref\Molbeck.GPIOMessaging.Demo.dll
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\Molbeck.GPIOMessaging.Demo.pdb
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\Molbeck.GPIOMessaging.Demo.genruntimeconfig.cache
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\Molbeck.GPIOMessaging.Demo.csproj.CopyComplete

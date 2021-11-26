@@ -29,9 +29,6 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Work\\Toit\\Molbeck.ESP32.GPIOMessaging.Communicator\\src\\Molbeck.ESP32.GPIOMessaging.Model\\Molbeck.ESP32.GPIOMessaging.Model.csproj": {
-                "projectPath": "C:\\Work\\Toit\\Molbeck.ESP32.GPIOMessaging.Communicator\\src\\Molbeck.ESP32.GPIOMessaging.Model\\Molbeck.ESP32.GPIOMessaging.Model.csproj"
-              },
               "C:\\Work\\Toit\\Molbeck.ESP32.GPIOMessaging.Communicator\\src\\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.csproj": {
                 "projectPath": "C:\\Work\\Toit\\Molbeck.ESP32.GPIOMessaging.Communicator\\src\\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.csproj"
               }

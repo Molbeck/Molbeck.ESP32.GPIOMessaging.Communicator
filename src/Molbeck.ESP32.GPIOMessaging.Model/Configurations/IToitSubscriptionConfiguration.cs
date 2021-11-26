@@ -1,4 +1,4 @@
-﻿namespace Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration
+﻿namespace Molbeck.ESP32.GPIOMessaging.Model.Configurations
 {
    public interface IToitSubscriptionConfiguration
    {

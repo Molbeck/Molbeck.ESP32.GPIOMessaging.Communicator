@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Molbeck.ESP32.GPIOMessaging.Model\Molbeck.ESP32.GPIOMessaging.Model.csproj" />
     <ProjectReference Include="..\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.csproj" />
   </ItemGroup>
     

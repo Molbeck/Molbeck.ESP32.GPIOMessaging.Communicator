@@ -2,11 +2,11 @@
 using Google.Protobuf;
 using Grpc.Core;
 using Grpc.Net.Client;
+using Molbeck.ESP32.GPIOMessaging.Model.Configurations;
 using Molbeck.ESP32.GPIOMessaging.Model.Serializers;
-using Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration;
 using Toit.Proto.API.PubSub;
 
-namespace Molbeck.ESP32.GPIOMessaging.Model.Services
+namespace Molbeck.ESP32.GPIOMessaging.Model.Services.Impl
 {
    public class GpioService : IGpioService
    {

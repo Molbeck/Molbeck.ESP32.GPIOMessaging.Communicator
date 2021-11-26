@@ -1,18 +1,27 @@
-﻿using Molbeck.ESP32.GPIOMessaging.Model.Configurations;
-
-namespace Molbeck.ESP32.GPIOMessaging.Model
+﻿namespace Molbeck.ESP32.GPIOMessaging.Model
 {
    public class GpioMessage
    {
-      public GpioMessage(string pin, int value, int? resetTime)
+      public GpioMessage(int pin, PinValue value, int? waitToResetTimeout)
       {
          Pin = pin;
          Value = value;
-         ResetTime = resetTime;
+         WaitToResetTimeout = waitToResetTimeout;
       }
 
-      public string Pin { get; }
-      public int Value { get; }
-      public int? ResetTime { get; }
+      /// <summary>
+      ///    The GPIO pin
+      /// </summary>
+      public int Pin { get; }
+
+      /// <summary>
+      ///    The value the pin should get
+      /// </summary>
+      public PinValue Value { get; }
+
+      /// <summary>
+      ///    The timeout in milliseconds before the pin should reset itself to the original value
+      /// </summary>
+      public int? WaitToResetTimeout { get; }
    }
 }

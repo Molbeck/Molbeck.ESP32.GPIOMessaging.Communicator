@@ -10,6 +10,6 @@
       /// <summary>
       ///    The GPIO pin
       /// </summary>
-      string Pin { get; }
+      int Pin { get; }
    }
 }

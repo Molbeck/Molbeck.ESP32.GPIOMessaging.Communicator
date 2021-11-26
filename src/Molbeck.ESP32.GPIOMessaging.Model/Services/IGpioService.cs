@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 using Grpc.Core;
-using Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration;
+using Molbeck.ESP32.GPIOMessaging.Model.Configurations;
 
 namespace Molbeck.ESP32.GPIOMessaging.Model.Services
 {
