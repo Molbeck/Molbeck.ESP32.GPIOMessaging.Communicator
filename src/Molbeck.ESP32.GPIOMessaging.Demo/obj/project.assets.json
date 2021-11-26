@@ -137,6 +137,9 @@
       "Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Molbeck.ESP32.GPIOMessaging.Model": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.dll": {}
         },

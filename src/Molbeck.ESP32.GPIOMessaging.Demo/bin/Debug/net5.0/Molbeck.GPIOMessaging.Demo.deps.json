@@ -132,6 +132,9 @@
         }
       },
       "Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration/1.0.0": {
+        "dependencies": {
+          "Molbeck.ESP32.GPIOMessaging.Model": "1.0.0"
+        },
         "runtime": {
           "Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.dll": {}
         }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9ozbmWEDeUcOyo/oQh7meuoJXE8vgsyNtZXEbLeq/WVyKJH66pzHEr9X6YJwLjJogO4DQh3VlAYD7fmEdW/10w==",
+  "dgSpecHash": "9zw5tJ4LfGDKqlA0CyOZGcJsxC9XyEMFKrqQR6Kylve0ksxIrqiFNYPdrF3UsQJ/Ky5gUN68OCyYd7DwBL8aMQ==",
   "success": true,
   "projectFilePath": "C:\\Work\\Toit\\Molbeck.ESP32.GPIOMessaging.Communicator\\src\\Molbeck.ESP32.GPIOMessaging.Demo\\Molbeck.GPIOMessaging.Demo.csproj",
   "expectedPackageFiles": [

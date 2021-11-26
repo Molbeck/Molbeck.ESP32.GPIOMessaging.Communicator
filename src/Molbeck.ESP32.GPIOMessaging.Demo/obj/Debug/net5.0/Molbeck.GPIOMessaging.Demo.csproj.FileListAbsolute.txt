@@ -26,7 +26,6 @@ C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMess
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\Molbeck.GPIOMessaging.Demo.AssemblyInfoInputs.cache
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\Molbeck.GPIOMessaging.Demo.AssemblyInfo.cs
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\Molbeck.GPIOMessaging.Demo.csproj.CoreCompileInputs.cache
-C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\Molbeck.GPIOMessaging.Demo.csproj.CopyComplete
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\Molbeck.GPIOMessaging.Demo.dll
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\ref\Molbeck.GPIOMessaging.Demo.dll
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.Demo\obj\Debug\net5.0\Molbeck.GPIOMessaging.Demo.pdb

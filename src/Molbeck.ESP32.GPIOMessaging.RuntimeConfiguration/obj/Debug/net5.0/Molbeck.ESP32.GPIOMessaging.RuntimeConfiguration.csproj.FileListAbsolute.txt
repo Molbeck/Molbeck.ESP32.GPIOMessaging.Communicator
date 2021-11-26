@@ -10,3 +10,6 @@ C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMess
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.dll
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\ref\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.dll
 C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.pdb
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\bin\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.Model.dll
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\bin\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.Model.pdb
+C:\Work\Toit\Molbeck.ESP32.GPIOMessaging.Communicator\src\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration\obj\Debug\net5.0\Molbeck.ESP32.GPIOMessaging.RuntimeConfiguration.csproj.CopyComplete
